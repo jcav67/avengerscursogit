@@ -2,3 +2,4 @@
 
 * Lex Luthor
 * Doomsday
+* Joker
